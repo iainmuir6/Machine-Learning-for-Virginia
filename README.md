@@ -13,6 +13,19 @@ This project analyzes offensive language on the internet through the lens of Mac
 
 We sourced our data from [Kaggle](https://www.kaggle.com/); specifically from the [Detecting Insults in Social Commentary Competition](https://www.kaggle.com/c/detecting-insults-in-social-commentary/data?select=train.csv). This is a single-class classification problem. The label is either 0 meaning a neutral comment, or 1 meaning an insulting comment (neutral can be considered as not belonging to the insult class).
 
+## Results Preview
+
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;Multinomial Naive-Bayes Classifier&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Support Vector Machine</h3>
+<span>
+  <img src="https://github.com/iainmuir6/Machine-Learning-for-Virginia/blob/main/output/mnbc.png" alt="mnbc" class="center" width="400">
+  <img src="https://github.com/iainmuir6/Machine-Learning-for-Virginia/blob/main/output/svm.png" alt="mnbc" class="center" width="400">
+</span>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nueral Network I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nueral Network II</h3>
+<span>
+  <img src="https://github.com/iainmuir6/Machine-Learning-for-Virginia/blob/main/output/nn1.png" alt="mnbc" class="center" width="400">
+  <img src="https://github.com/iainmuir6/Machine-Learning-for-Virginia/blob/main/output/nn2.png" alt="mnbc" class="center" width="400">
+</span>
+
 ## Credits
 * Kyle Cheng (kwc9ap)
 * Boris Topalov (bnt4yb)
